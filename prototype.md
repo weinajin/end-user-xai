@@ -23,7 +23,7 @@ As a quick prototyping, the feature content may not necessarily reflect the true
 
 ### 1.4 Fill in the prototyping card template with the extracted features
 
-You can use the **[prototyping card design templates](#template)**, and fill in the template with the above extracted features. In this way, you create the prototyping card for each explanatory form. You can regard them as individual components of your future explainable AI prototype. 
+You can use the **[prototyping card design templates](README.md/#template)**, and fill in the template with the above extracted features. In this way, you create the prototyping card for each explanatory form. You can regard them as individual components of your future explainable AI prototype. 
 
 In the design template and example, we provide the basic visualization of the explanatory forms used in the user study. You can also create their own template from scratch by referring to the possible **Visual Representation** part for each [explanatory form](explanatory_form.md). 
 
